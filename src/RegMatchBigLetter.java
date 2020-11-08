@@ -9,7 +9,7 @@ public class RegMatchBigLetter {
 
 
     public static void main(String[] args) {
-// Создаем список со специальными символами
+// Создаем список с большими буквами
         List<Character> BigLetters = new ArrayList<>();
         char BigLetter = 'A';
         while(BigLetter <='Я'){
